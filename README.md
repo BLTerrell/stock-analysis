@@ -65,6 +65,7 @@ Another take away was that this was only across 12 stock tickers. I would expect
 ### Analysis of stock performance between 2017 and 2018
 
 Our analysis of the stocks indicates that 2017 was a better year for the 12 analyzed stocks because there was a greater count of positive returns (as visualized using cells with green backgrounds) and the returns had larger percentages.
+
 ![All Stocks Analysis - 2017 Stocks](Resources/All_Stocks_Analysis_2017.png) ![All Stocks Analysis - 2018 Stocks](Resources/All_Stocks_Analysis_2018.png)
 
 More importantly to Steve, "ENPH" and "RUN" look to be strong investment candidates due to their high daily volumes and postive returns for both 2017 and 2018. "ENPH" stocks are a prime target as they had greater than 80% returns in both years. 
